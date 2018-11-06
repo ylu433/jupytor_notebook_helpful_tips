@@ -1,1 +1,1 @@
-# jupytor_notebook_helpful_tips
+Contains some helpful tips in configuring and using jupytor notebook
